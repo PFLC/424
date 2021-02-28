@@ -46,6 +46,6 @@ GUIÓN DE ESTUDIOS
 |<p></p><p></p><p></p>|
 | :- |
 
-Elaborado por: Alejandro Siqueiros Beltrones.
+Elaborado por: MC René Solis Reyes.
 ` `PAGE   \\* MERGEFORMAT 4
 
