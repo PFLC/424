@@ -43,9 +43,8 @@ GUIÓN DE ESTUDIOS
 |<p>FUENTES DE CONSULTA ELECTRÓNICA:</p><p>El hardware evolución y características: [http://ing.unne.edu.ar/pub/informatica/U2.pdf]()</p><p>Redes de computadoras : https://bibliotecavirtualapure.files.wordpress.com/2015/06/redes\_de\_computadoras-freelibros-org.pdf</p><p>Sistemas operativos y tipos de sistema operativos: [https://www.areatecnologia.com/sistemas-operativos.htm]()</p><p>Como formatear un disco duro: https://www.pcworld.es/tutoriales/ordenadores/formatear-disco-duro-3680798/</p>|
 | :- |
 
-|<p></p><p></p><p></p>|
-| :- |
+
 
 Elaborado por: MC René Solis Reyes.
-` `PAGE   \\* MERGEFORMAT 4
+
 
